@@ -1,0 +1,7 @@
+print("I\'m a boy.")
+print("Double Quotes \"\"")
+print("This is backslash \\")
+print("These are 2 backslash \\\\")
+print("Line A \nLine B")
+print("Hello\tWorld")
+print("Hell\blo World")
