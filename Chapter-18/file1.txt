@@ -1,0 +1,5 @@
+This is a text file
+just a simple file to understand
+how to read files in python
+I am Waqar
+learning python

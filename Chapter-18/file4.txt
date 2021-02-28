@@ -1,0 +1,5 @@
+Hello
+we are learning file handling
+in python and our task is
+now to read this file and write this data in
+file5.txt

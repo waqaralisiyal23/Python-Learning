@@ -1,0 +1,5 @@
+Waqar's salary is 100000
+Ahmed's salary is 50000
+Usama's salary is 20000
+Uzair's salary is 40000
+Imtiaz's salary is 10000

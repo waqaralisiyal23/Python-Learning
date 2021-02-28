@@ -1,0 +1,5 @@
+Waqar,100000
+Ahmed,50000
+Usama,20000
+Uzair,40000
+Imtiaz,10000
